@@ -34,8 +34,6 @@ Las dependencias se gestionan con `pip` mediante `requirements.txt`:
    cd consulta-precios-omie
    ```
 
-   > Sustituye `tu-usuario` por tu usuario real de GitHub si el repositorio está en tu cuenta.
-
 2. (Opcional pero recomendado) Crea y activa un entorno virtual:
 
    ```bash
